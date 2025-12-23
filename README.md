@@ -49,5 +49,7 @@ The dataset includes:
 - Include location-based features for improved predictions.  
 - Build an interactive dashboard for better exploration and presentation.  
 
-## Folder Structure
+## 👤 Author
+**Shubham Mandavkar**  
+Aspiring Data Analyst | Excel | Power BI | SQL | Python | R Programming
 
